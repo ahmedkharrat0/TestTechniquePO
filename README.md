@@ -11,3 +11,9 @@ Inclut:
 ┣ 📜 README.md
 ┣ 📜 specifications_fonctionnelles.md
 ┣ 📜 scenarios_de_test.md
+
+
+## Auteur
+Ahmed Kharrat
+email: ahmedkharrat.tbs@gmail.com
+Téléphone: +21625531556
